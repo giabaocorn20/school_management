@@ -30,11 +30,3 @@ A Screenshot from the Program
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-```
-
-Feel free to customize it according to your specific project details and preferences. You can add more sections, such as "Installation," "Dependencies," or "Acknowledgments," based on the complexity and requirements of your School Management System.
